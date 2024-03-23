@@ -1,2 +1,2 @@
 # Projects
- meu primeiro projeto
+ meu primeiro projeto inicial.
